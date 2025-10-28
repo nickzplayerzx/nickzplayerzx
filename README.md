@@ -1,10 +1,12 @@
-<p align="center">‹ Este perfil só funciona no tema escuro do GitHub ›</p>
-
-<br>
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7E3FF0&section=header"/></a>
-<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Ol%C3%A1%2C+eu+sou+NICKZ!;Designer+CSS+%7C+Automa%C3%A7%C3%A3o+Web."/></a>
-
-<br><br>
-
-```zsh
+<p align="center">‹ Este perfil só funciona no tema escuro do GitHub ›</p><br><a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7E3FF0&section=header"/></a><a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Ol%C3%A1%2C+eu+sou+NICKZ!;Designer+CSS+%7C+Automa%C3%A7%C3%A3o+Web."/></a><br><br>```zsh
 > neofetch
+```<a href="#"><img align="left" src="https://i.imgur.com/JhzP1sq.png" width="20%"/></a>```lua
+NICKZ@GitHub
+▔▔▔▔▔▔▔▔
+OS: Windows 11 PRO
+Shell: VS CODE
+Location: Brasil, PR
+Learning: HTML, CSS, JavaScript
+Role: Designer CSS
+Focus: Scripts, hacks, automação e interfaces dark mode.
+```<br><br>---<br><br><p align="center"><strong>GitHub Status</strong></p>| <a href="https://KHANSCRIPT.netlify.app"><img src="https://img.shields.io/badge/KhanScript-7E3FF0?style=for-the-badge&logo=netlify&logoColor=white" alt="KhanScript"/></a><br><br><a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=40&duration=1&pause=2000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=1000&height=60&lines=%F0%9F%93%81+%7C+Meus+Projetos%3A"/></a><br><br><a href="https://github.com/DarkModde/CMSP-Plataformas-Hacks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarkModde&repo=CMSP-Plataformas-Hacks&theme=github_dark&border_color=30363f&border_radius=0"/></a><br><br><a href="https://github.com/DarkModde/WPlace-AutoBOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarkModde&repo=WPlace-AutoBOT&theme=github_dark&border_color=30363f&border_radius=0"/></a> | <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=DarkModde&show_icons=true&hide_border=true&theme=github_dark&border_radius=0&border_color=30363d&hide_title=true&locale=pt-br&card_width=550"/></a><br><br><a href="#"><img src="https://streak-stats.demolab.com?user=DarkModde&hide_border=true&theme=github-dark-blue&border_radius=0&border=30363d&locale=pt-BR&card_width=550"/></a> |<br><br><p align="center">  <a href="#"><img src="https://komarev.com/ghpvc/?username=DarkModde&style=for-the-badge&label=Views:&color=gray"/></a>  <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/DarkModde?color=7E3FF0&labelColor=5D2BB0&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a></p><a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7E3FF0&section=footer"/></a>
