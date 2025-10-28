@@ -1,8 +1,6 @@
-<p align="center">‹ Este perfil foi feito para brilhar no modo escuro do GitHub ›</p>
-
-<br>
-
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7E3FF0&height=100&section=header"/></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3FF0&height=120&section=header&text=Nickzplayer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <br>
 
@@ -48,4 +46,6 @@
 
 <br>
 
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7E3FF0&height=100&section=footer"/></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3FF0&height=80&section=footer" />
+</p>
