@@ -1,12 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Nickzplayer&fontSize=40&fontColor=auto" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3FF0&height=120&section=header&text=Nickzplayer&fontSize=40&fontColor=ffffff" />
 </p>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=28&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=NICKZ;Designer+CSS;Automa%C3%A7%C3%A3o+Web" alt="Typing SVG" style="display: none;" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=28&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=NICKZ;Designer+CSS;Automa%C3%A7%C3%A3o+Web" alt="Typing SVG" />
+  <!-- Light mode: texto preto -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=NICKZ;Designer+CSS;Automa%C3%A7%C3%A3o+Web" alt="Typing SVG (light)" style="display: none;" />
+  <!-- Dark mode: texto branco -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=28&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=NICKZ;Designer+CSS;Automa%C3%A7%C3%A3o+Web" alt="Typing SVG (dark)" />
 </div>
 
 <br>
@@ -35,8 +37,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NICKZ&show_icons=true&theme=default&border_radius=10&hide_border=true&locale=pt-br" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=NICKZ&theme=default&border_radius=10&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NICKZ&show_icons=true&theme=github_dark&bg_color=000000&border_color=30363d&hide_border=false&border_radius=10&locale=pt-br" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=NICKZ&theme=github-dark-blue&background=000000&border=30363d&hide_border=false&border_radius=10" width="48%" />
 </div>
 
 <br>
@@ -48,5 +50,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E3FF0&height=80&section=footer" />
 </p>
